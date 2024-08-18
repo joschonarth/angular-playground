@@ -1,5 +1,5 @@
 {
-  "name": "curso02",
+  "name": "02-typescript",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,6 @@
     "typescript": "^5.5.4"
   },
   "dependencies": {
-    "curso02": "file:"
+    "02-typescript": "file:"
   }
 }
