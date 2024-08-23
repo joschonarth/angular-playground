@@ -52,6 +52,12 @@ Após a instalação das dependências, você pode rodar o projeto localmente.
 ng new nome-do-projeto
 ```
 
+Para criar o projeto no modelo do Angular 14, com o arquivo `app.module.ts`, execute:
+
+```bash
+ng new nome-do-projeto --no-standalone
+```
+
 **2. Acesse o Diretório do Projeto:**
 
 ```bash
