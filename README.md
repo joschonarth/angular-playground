@@ -46,7 +46,7 @@ ng version
 
 Após a instalação das dependências, você pode rodar o projeto localmente.
 
-**1. Crie o projeto: **
+**1. Crie o projeto:**
 
 ```bash
 ng new nome-do-projeto
