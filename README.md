@@ -91,6 +91,7 @@ http://localhost:4200/
 | `ng add`    | Adiciona suporte para bibliotecas externas.                |
 | `ng update` | Atualiza a aplicação e suas dependências.                  |
 | `ng lint`   | Executa análise de código para projetos Angular.           |
+| `ng help`    | Exibe uma lista de comandos disponíveis e suas descrições detalhadas |
 
 ### Referências 🔍
 - [Digital Innovation One](https://web.dio.me/).
