@@ -75,7 +75,21 @@ O `router-outlet` é uma diretiva que atua como um ponto de ancoragem onde o con
 
 **RouterLink**: O `RouterLink` é uma diretiva que facilita a navegação dentro da aplicação Angular, associando uma rota a um elemento HTML, como um link ou botão.
 
+```typescript
+<a routerLink="/about">About</a>
+```
+
 **RouterLinkActive**: O `RouterLinkActive` é uma diretiva que aplica automaticamente classes CSS ao link quando a rota correspondente está ativa.
+
+```typescript
+<a routerLink="/about" routerLinkActive="active-link">About</a>
+```
+
+**RouterLinkOptions**: Você pode configurar opções adicionais, como desabilitar o scroll ao topo, com `routerLinkOptions`.
+
+```typescript
+<a [routerLink]="['/about']" [routerLinkOptions]="{ skipLocationChange: true }">About</a>
+```
 
 ## Roteamento com Parâmetros
 
@@ -111,6 +125,46 @@ export class UserComponent implements OnInit {
   }
 }
 
+```
+
+## Query Params
+
+**Query Params** permitem passar parâmetros adicionais na URL sem afetar o caminho da rota.
+
+```typescript
+const routes: Routes = [
+  { path: 'search', component: SearchComponent }
+];
+```
+
+No componente, você pode acessar os Query Params assim:
+
+```typescript
+import { Component, OnInit } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
+
+@Component({
+  selector: 'app-search',
+  templateUrl: './search.component.html',
+  styleUrls: ['./search.component.css']
+})
+export class SearchComponent implements OnInit {
+  searchTerm: string;
+
+  constructor(private route: ActivatedRoute) { }
+
+  ngOnInit(): void {
+    this.route.queryParams.subscribe(params => {
+      this.searchTerm = params['term'];
+    });
+  }
+}
+```
+
+Para navegar com Query Params:
+
+```typescript
+<a [routerLink]="['/search']" [queryParams]="{ term: 'angular' }">Search</a>
 ```
 
 ## Rotas Filhas (Nested Routes)
