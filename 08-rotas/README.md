@@ -2,6 +2,19 @@
 
 Este documento aborda a configuração e uso de rotas no Angular, permitindo a navegação entre diferentes partes da sua aplicação de forma dinâmica e eficiente.
 
+## Índice
+
+1. [Introdução às Rotas](#introdução-às-rotas)
+2. [Configuração Básica de Rotas](#configuração-básica-de-rotas)
+3. [RouterLink e RouterLinkActive](#routerlink-e-routerlinkactive)
+4. [Roteamento com Parâmetros](#roteamento-com-parâmetros)
+5. [Acessando Parâmetros de Rota no Componente](#acessando-parâmetros-de-rota-no-componente)
+6. [Query Params](#query-params)
+7. [Rotas Filhas (Nested Routes)](#rotas-filhas-nested-routes)
+8. [Lazy Loading (Carregamento Sob Demanda)](#lazy-loading-carregamento-sob-demanda)
+9. [Protegendo Rotas com Guards](#protegendo-rotas-com-guards)
+10. [Redirecionamentos e Rotas Coringa](#redirecionamentos-e-rotas-coringa)
+
 ## Introdução às Rotas
 
 No Angular, as rotas permitem que você navegue entre diferentes componentes da aplicação, sem recarregar a página. As rotas são definidas em um módulo de roteamento, que especifica os caminhos de URL e os componentes correspondentes a esses caminhos.
@@ -57,6 +70,12 @@ O `router-outlet` é uma diretiva que atua como um ponto de ancoragem onde o con
 </nav>
 <router-outlet></router-outlet>
 ```
+
+## RouterLink e RouterLinkActive
+
+**RouterLink**: O `RouterLink` é uma diretiva que facilita a navegação dentro da aplicação Angular, associando uma rota a um elemento HTML, como um link ou botão.
+
+**RouterLinkActive**: O `RouterLinkActive` é uma diretiva que aplica automaticamente classes CSS ao link quando a rota correspondente está ativa.
 
 ## Roteamento com Parâmetros
 
