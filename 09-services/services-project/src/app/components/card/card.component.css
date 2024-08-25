@@ -17,7 +17,7 @@
   border: 2px solid #5a5a5a;
   border-radius: 8px;
   padding: 8px;
-  font-size: 1rem;
+  font-size: 0.8rem;
   margin-bottom: 10px;
 }
 
@@ -28,12 +28,14 @@
 .card__title {
   margin: 10px auto;
   text-align: center;
+  background-color: #2b2b2b;
 }
 
 .card__title > h3 {
   color: #fff;
   font-size: 1.8rem;
   text-transform: uppercase;
+  background-color: #2b2b2b;
 }
 
 .card__body {
@@ -48,12 +50,17 @@
   border: 2px solid #5a5a5a;
 }
 
+.card__body > img {
+  background-color: #3d3d3d;
+}
+
 .card__stats {
   padding-top: 15px;
   display: flex;
   flex-direction: row;
   justify-content: center;
   gap: 8px;
+  background-color: #2b2b2b;
 }
 
 .card__stats__type {
