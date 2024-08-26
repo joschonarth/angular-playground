@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/typescript.png">
+</p>
+
 # <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="50"> TypeScript
 
 Abaixo você encontrará instruções para a instalação do Node.js e TypeScript, configuração do ambiente de desenvolvimento e como rodar seus scripts.
