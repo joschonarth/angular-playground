@@ -1,6 +1,10 @@
-# Angular Services
+<p align="center">
+  <img src="assets/angular.png">
+</p>
 
-Este repositório contém exemplos de como utilizar Services no Angular, incluindo a criação de services, injeção de dependências, uso do módulo HttpClient, trabalho com observables e como usar o método `subscribe`.
+# 🅰️ Angular Services
+
+Este repositório contém exemplos de como utilizar Services no Angular, incluindo a criação de services, injeção de dependências, uso do módulo HttpClient, trabalho com observables e como usar o método `subscribe`, além de um mini-projeto que simula um Card Pokémon utilizando os conceitos apresentados na prática.
 
 ## Índice
 
