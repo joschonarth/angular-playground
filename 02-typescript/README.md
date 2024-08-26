@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/typescript2.png">
+  <img src="../assets/typescript.png">
 </p>
 
 # <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="50"> TypeScript
