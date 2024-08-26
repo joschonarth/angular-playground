@@ -1,4 +1,8 @@
-# Módulos no Angular
+<p align="center">
+  <img src="../assets/angular.png">
+</p>
+
+# Módulos no Angular 🅰️
 
 Os módulos no Angular são uma maneira de organizar e agrupar componentes, diretivas, pipes e serviços relacionados. Eles ajudam a manter o código modular, reutilizável e mais fácil de manter. Este documento explica como criar módulos e seguir boas práticas no desenvolvimento de aplicações Angular.
 
