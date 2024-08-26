@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/angular.png">
+  <img src="../assets/angular.png">
 </p>
 
 # 🅰️ Angular Services
