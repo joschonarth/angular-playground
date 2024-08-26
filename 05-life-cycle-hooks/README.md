@@ -1,4 +1,8 @@
-# Angular Life Cycle Hooks
+<p align="center">
+  <img src="../assets/angular.png">
+</p>
+
+# 🅰️ Angular Life Cycle Hooks
 
 Este documento fornece uma visão geral dos principais hooks do ciclo de vida dos componentes no Angular. Esses hooks permitem que você reaja a diferentes momentos do ciclo de vida de um componente, como a criação, mudanças de estado e destruição.
 

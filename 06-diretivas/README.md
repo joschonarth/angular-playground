@@ -1,4 +1,8 @@
-## Diretivas
+<p align="center">
+  <img src="../assets/angular.png">
+</p>
+
+# Diretivas no Angular 🅰️
 
 Diretivas são a maneira como o angular manipula e altera a DOM dinâmicamente.
 

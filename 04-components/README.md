@@ -1,4 +1,8 @@
-# Angular Components
+<p align="center">
+  <img src="../assets/angular.png">
+</p>
+
+# 🅰️ Angular Components
 
 ## Gerando um Componente
 No Angular, componentes são as unidades fundamentais da aplicação, responsáveis por gerenciar a interface do usuário e a lógica associada. Para gerar um novo componente, você pode utilizar o Angular CLI (Command Line Interface).
