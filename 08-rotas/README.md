@@ -1,4 +1,8 @@
-# Rotas no Angular
+<p align="center">
+  <img src="../assets/angular.png">
+</p>
+
+# Rotas no Angular 🅰️
 
 Este documento aborda a configuração e uso de rotas no Angular, permitindo a navegação entre diferentes partes da sua aplicação de forma dinâmica e eficiente.
 
