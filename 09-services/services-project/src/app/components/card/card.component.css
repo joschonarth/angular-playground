@@ -34,7 +34,7 @@
 .card__title > h3 {
   color: #fff;
   font-size: 1.8rem;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   background-color: #2b2b2b;
 }
 
