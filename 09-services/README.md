@@ -147,7 +147,7 @@ Este projeto é uma demonstração prática dos conceitos de `services` no Angul
 
 
 <p align="center">
-  <img src="assets/card-pokemon.gif">
+  <img src="../assets/card-pokemon.gif">
 </p>
 
 Caso queira conferir o código completo, acesse a [pasta no diretório](https://github.com/joschonarth/dio-angular/tree/main/09-services/services-project). Fique a vontade para utilizar e rodar o projeto você mesmo.
