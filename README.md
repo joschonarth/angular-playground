@@ -23,7 +23,7 @@ Este repositório foi criado para servir como material de estudo, com o objetivo
 
 | 🅰️ | Aula | Tópico | Material de Apoio |
 | --- | --- | ------------------ | ---------------------------------------------------------------- |
-| 🅰️ | 6 | Diretivas no Angular | [![Ver Material](https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge)](https://github.com/joschonarth/dio-angular/tree/main/06-diretivas) |
+| 🅰️ | 6 | Diretivas | [![Ver Material](https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge)](https://github.com/joschonarth/dio-angular/tree/main/06-diretivas) |
 | 🅰️ | 7 | Módulos | [![Ver Material](https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge)](https://github.com/joschonarth/dio-angular/tree/main/07-modulos) |
 | 🅰️ | 8 | Rotas | [![Ver Material](https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge)](https://github.com/joschonarth/dio-angular/tree/main/08-rotas) |
 | 🅰️ | 9 | Services e Pipes | [![Ver Material](https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge)](https://github.com/joschonarth/dio-angular/tree/main/09-services) |
