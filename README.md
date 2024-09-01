@@ -2,12 +2,9 @@
   <img src="assets/angular.png">
 </p>
 
-> 👨‍🚀 **Repositório com o propósito de estudos**
-
-
 # 🅰️ Sobre este Repositório
 
-Este repositório foi criado para servir como material de estudo, com o objetivo de fornecer exemplos práticos das principais competências necessárias para trabalhar com `Angular`.
+Este repositório foi criado para servir como material de estudo, com o objetivo de fornecer exemplos práticos das principais competências necessárias para trabalhar com **`Angular`**.
 
 ### 📦 Componentização
 
